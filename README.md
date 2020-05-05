@@ -1,9 +1,9 @@
 # samples
-///
+
 import employee.Potential  
 <br />
-class ExampleWork {
-
+class ExampleWork {  
+  
   let owner          : IosDeveloper
   var pastEmployeers : [Employeer] 
   var skills         : [String]
