@@ -37,12 +37,12 @@ class ExampleWork {
       <br />
         print("Thanks for look'in!")
         <br />
-      }
+      }<br />
   }
   
   
   func presentWelcomeMessage(completion : ()->()){<br />
     print("Hello! Welcome to my small but humble GitHub. I update it with a few pieces of work I did in the past    month. This is mostly for potential employeers but I also have a quite bit of experience in Bluetooth Mesh and beaconing. I'm totally willing to give a hand to whomever is interested.")<br />
     completion()<br />
-  }
+  }<br />
 }
