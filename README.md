@@ -15,14 +15,10 @@ class ExampleWork {
   <br />
     self.owner = IosDeveloper(name: "Hayden", age: 28)
     <br />
-    self.pastEmloyeers = [<br />
-    
+    self.pastEmloyeers = [
       Employeer( name : "US Army / NSA", yearsActive : 4),
-      <br />
       Employeer( name : "BubblyNet", yearsActive : 1)
-      <br />
     ]
-    <br />
     <br />
     self.skills = ["Swift"
       , "Java"
