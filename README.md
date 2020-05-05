@@ -1,6 +1,6 @@
 # samples
 ///
-# import employee.Potential
+import employee.Potential
 
 class ExampleWork {
 
