@@ -1,8 +1,8 @@
 # samples
 ///
-import employee.Potential
+#import employee.Potential
 
-class ExampleWork {
+#class ExampleWork {
 
   let owner          : IosDeveloper
   var pastEmployeers : [Employeer] 
