@@ -12,11 +12,14 @@ class ExampleWork {
   <br />
   
   init(){
+  <br />
     self.owner = IosDeveloper(name: "Hayden", age: 28)
+    <br />
     self.pastEmloyeers = [
       Employeer( name : "US Army / NSA", yearsActive : 4),
       Employeer( name : "BubblyNet", yearsActive : 1)
     ]
+    <br />
     self.skills = ["Swift"
       , "Java"
       , "C#"
@@ -27,7 +30,7 @@ class ExampleWork {
       , "Data Analytics
       , "Critical Thinking"
       , "Problem Solving"]
-      
+      <br />
       presentWelcomeMessage(){
         print("Thanks for look'in!")
       }
