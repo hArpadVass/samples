@@ -21,6 +21,7 @@ class ExampleWork {
       Employeer( name : "BubblyNet", yearsActive : 1)
     ]
     <br />
+    <br />
     self.skills = ["Swift"
       , "Java"
       , "C#"
