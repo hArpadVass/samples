@@ -1,7 +1,7 @@
 # samples
 ///
-import employee.Potential
-
+import employee.Potential  
+<br />
 class ExampleWork {
 
   let owner          : IosDeveloper
