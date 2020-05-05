@@ -17,6 +17,7 @@ class ExampleWork {
     <br />
     self.pastEmloyeers = [
       Employeer( name : "US Army / NSA", yearsActive : 4),
+      <br />
       Employeer( name : "BubblyNet", yearsActive : 1)
     ]
     <br />
