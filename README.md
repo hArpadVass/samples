@@ -3,10 +3,13 @@
 import employee.Potential  
 <br />
 class ExampleWork {  
-  
+  <br />
   let owner          : IosDeveloper
+  <br />
   var pastEmployeers : [Employeer] 
+  <br />
   var skills         : [String]
+  <br />
   
   init(){
     self.owner = IosDeveloper(name: "Hayden", age: 28)
