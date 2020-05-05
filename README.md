@@ -34,7 +34,9 @@ class ExampleWork {
       , "Problem Solving"]
       <br />
       presentWelcomeMessage(){
+      <br />
         print("Thanks for look'in!")
+        <br />
       }
   }
   
